@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="removeItem">Remove</string>
+    <string name="app_name">PagedDragDrop</string>
+
+    <string name="app1_name">Mycare</string>
+    <string name="app2_name">Dompetku</string>
+    <string name="app3_name">Spotify Music</string>
+    <string name="app4_name">iCloud</string>
+    <string name="app5_name">Cipika Store</string>
+    <string name="app6_name">BBM</string>
+    <string name="app7_name">Duel Otak</string>
+    <string name="app8_name">Facebook</string>
+</resources>
